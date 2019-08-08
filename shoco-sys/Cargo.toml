@@ -1,5 +1,8 @@
 [package]
 name = "shoco-sys"
+repository = "https://github.com/ajmwagar/shoco-rs"
+description = "FFI Bindings to shoco"
+license = "MIT"
 version = "0.1.0"
 authors = ["Avery Wagar <awagar@cfchildren.org>"]
 edition = "2018"
@@ -7,5 +10,5 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [build-dependencies]
-bindgen = "*"
+bindgen = "0.50"
 
