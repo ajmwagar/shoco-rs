@@ -3,7 +3,7 @@ name = "shoco-sys"
 repository = "https://github.com/ajmwagar/shoco-rs"
 description = "FFI Bindings to shoco"
 license = "MIT"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Avery Wagar <awagar@cfchildren.org>"]
 edition = "2018"
 
