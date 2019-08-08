@@ -1,5 +1,9 @@
 [package]
 name = "shoco-rs"
+repository = "https://github.com/ajmwagar/shoco-rs"
+description = "Rust bindings to Shoco"
+readme = "README.md"
+license = "MIT"
 version = "0.1.0"
 authors = ["Avery Wagar <awagar@cfchildren.org>"]
 edition = "2018"
